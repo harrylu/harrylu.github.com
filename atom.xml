@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Great Harry]]></title>
+  <title><![CDATA[鲁赫@思考er]]></title>
   <link href="http://harrylu.github.com/atom.xml" rel="self"/>
   <link href="http://harrylu.github.com/"/>
-  <updated>2012-11-04T01:52:42+09:00</updated>
+  <updated>2012-11-04T18:07:02+09:00</updated>
   <id>http://harrylu.github.com/</id>
   <author>
-    <name><![CDATA[harry]]></name>
+    <name><![CDATA[鲁赫]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
