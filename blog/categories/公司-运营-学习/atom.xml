@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 公司，运营，学习 | 鲁赫@思考er]]></title>
+  <link href="http://harrylu.github.com/blog/categories/公司-运营-学习/atom.xml" rel="self"/>
+  <link href="http://harrylu.github.com/"/>
+  <updated>2012-12-13T01:21:01+09:00</updated>
+  <id>http://harrylu.github.com/</id>
+  <author>
+    <name><![CDATA[鲁赫]]></name>
+    <email><![CDATA[luhe1987@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[on building and running a company]]></title>
+    <link href="http://harrylu.github.com/blog/2012/12/13/on-building-and-running-a-company/"/>
+    <updated>2012-12-13T01:07:00+09:00</updated>
+    <id>http://harrylu.github.com/blog/2012/12/13/on-building-and-running-a-company</id>
+    <content type="html"><![CDATA[<p>这几天工作上遇到一些问题，给我了很多思考。一个公司应该如何运营，什么样的团队成员才彼此合适，都是在真实工作中观察，体验到。</p>
+
+<p>今天看到了两个关于公司的文章，
+记录一下：</p>
+
+<p> 1 - http://neiljoglekar.com/3-things-we-have-done-right
+ 2 - http://neiljoglekar.com/3-things-we-did-wrong</p>
+
+<p> 里边这一句，体会尤其深刻:</p>
+
+<blockquote><p>Attitude matters: People say you should hire the smartest people you know. While that is mostly true, you have to make sure that their attitude matches their intelligence. For example, if you hire someone who is the most brilliant AI programmer alive but doesn’t want to get his hands dirty and make a rounded rectangle a different shade of blue you are going to have a problem. Screen for culture fit / hunger and take it very seriously.</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>
